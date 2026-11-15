@@ -1,5 +1,11 @@
 # codescanner
 
+> [!WARNING]
+> **This library is deprecated** and is no longer maintained.
+> Use [KMP Vision Camera](https://github.com/nathanfallet/kmp-vision-camera) instead: its `barcode-compose` module
+> has a `CodeScanner` composable, and scans many more formats on Android (ML Kit) and iOS (Apple Vision), with
+> the full camera API of VisionCamera.
+
 A CodeScanner library for Kotlin Compose Multiplatform
 
 > This library is a port of the [CodeScanner iOS library](https://github.com/twostraws/CodeScanner),
